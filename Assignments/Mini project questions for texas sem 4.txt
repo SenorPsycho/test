@@ -1,0 +1,58 @@
+Dorje Dong : Currency Converter : Convert currency based on fixed exchange rate.
+
+Anuj pathak : Quiz Game : Ask 5 MCQ questions and give final score.
+
+Sangit Neupane : Weather Reporter : Take city and print fake/random weather info.
+
+Rashmi koirala : Student Grade Calculator : Take marks and calculate average and grade.
+
+Anu Kawan : Prime Number Checker : Check if a number is prime.
+
+Milan Wagle : Random Password Generator : Generate a random secure password.
+
+Heera Khatri : Number Reverser : Reverse a number entered by user.
+
+Shubham Kayastha : Factorial Calculator : Calculate factorial using loop.
+
+Sudip Shrestha: Days Between Dates : Find number of days between two given dates.
+
+Binisha Ghimire : Simple Stop Watch : Start and stop a timer.
+
+Bibas : Basic Calendar Display : Display calendar for a given year/month.
+
+Rashmi korala : Simple ATM Simulator : Simulate withdraw, deposit and balance check.
+
+Purnima Thapa : Multiplication Table Generator : Print table of any number using loop.
+
+Satyam Sapkota : Leap Year Checker : Determine if a given year is a leap year.
+
+Sangam : Rock, Paper, Scissors Game : Terminal-based game where user plays against computer with score tracking.
+
+Om : Basic Login System : Simulate username and password verification.
+
+Aditi : Text Word Counter : Count number of words and characters in text.
+
+Aayush(ayush7878387) : Simple Voting System : User can vote for candidates and show result.
+
+Roshan Shrestha : Guess the Word (Hangman) : Basic version of hangman game.
+
+Ashmani Dulal : Palindrome Checker : Check if a string or number is a palindrome.
+
+Aarati Shrestha : Number Guessing Game : Computer randomly picks a number. User has to guess it with hints.
+
+Sabal gurung : Unit Converter : Convert values between units (e.g., km to miles, C to F).
+
+Bishan Sunuwar : Even or Odd Checker : Check whether entered number is even or odd.
+
+Nima : List Duplicate Remover : Remove duplicate values from a list.
+
+Anisa : Password Strength Checker : Check if entered password is strong based on length and character types.
+
+Darsana Subedi : Simple Alarm Clock : Set a time and display message or beep when time comes.
+
+Sarina Magar : Simple Calculator : Perform +, -, *, operations based on user choice.
+
+Pratik bishowkarma : Simple Dice Roller : Simulate rolling a dice using random module.
+
+Susan khatri : Number Guessing Game
+Description: Generate a random number between 1 and 100. The user tries to guess the number, and the program gives feedback like "Too High", "Too Low", or "Correct!". Count the number of attempts.

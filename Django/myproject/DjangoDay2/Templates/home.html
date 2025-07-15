@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+        <ul>
+            {%if name %}
+            <h1> This is a Home page created by {{ name }} </h1>
+            {% else %}
+            <h1> This is a Home page created by some author </h1>
+            {% endif %}
+        </ul>
+        <ul>
+            <li>
+                /admin
+            </li>
+            <li>
+                /DjangoDay2/home
+            </li>
+        </ul>
+</body>
+</html>
+
