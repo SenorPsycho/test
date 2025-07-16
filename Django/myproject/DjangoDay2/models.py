@@ -16,4 +16,31 @@ class users(models.Model):
         description = models.TextField(null=True, blank=True)
         stock = models.PositiveIntegerField(default=0)        
 
+
+class Student:
+    def __init__(self, name, age, height, weight):
+        self.name = name
+        self.age = age
+        self.height = height
+        self.weight = weight
+    def greet(self):
+        return f"Hello, my name is {self.name} and I am {self.age} years old. I am {self.height} cm tall and weigh {self.weight} kg."
     
+class Animal(self):
+    def speak(self):
+        print("Animal function called")
+        
+
+class Dog(Animal):
+    super().speak()
+    def speak(self):
+        super().speak()
+        print("Dog function called")
+    def parent_speak(self):
+        super().speak()
+    
+animal = Animal()
+animal.speak()
+
+dog = Dog()
+dog.speak()
